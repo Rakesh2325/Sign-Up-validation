@@ -1,0 +1,27 @@
+.main{
+    padding: 100px 0px 0px 250px;
+    font-size: larger;
+}
+#para-1{
+    color: darkgray;
+    border-bottom: 1px solid black; 
+    width: 27%;
+}
+label{
+    font-size: medium;
+}
+#a{
+    color: black;
+}
+#term{
+    color:blueviolet ;
+}
+#para{
+    font-size: smaller;
+    margin-left: 50px;
+    color:darkcyan;
+}
+#login{
+    border-bottom: 2px solid darkblue;
+    cursor: pointer;
+}
